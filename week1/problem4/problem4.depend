@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1722545327 source:c:\users\souq al computer\documents\fai\code blocks\problem4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+	<vector>
+	<algorithm>
+
+1722542807 source:c:\users\souq al computer\documents\fai\code blocks\problem4\untitled1.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+
